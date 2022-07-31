@@ -1,0 +1,13 @@
+.container{
+width: 100%;
+}
+
+.cell{
+width: 100px;
+float:left;
+}
+
+.cell:hover,
+.cell:focus{
+background: red;
+}
